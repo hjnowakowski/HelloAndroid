@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="title">Udacity</string>
+    <string name="number">640–555-5555</string>
+    <string name="link">www.udacity.com</string>
+    <string name="address">2465 Latham Street, 1st Floor Mountain View, CA 94040 USA</string>
+</resources>
